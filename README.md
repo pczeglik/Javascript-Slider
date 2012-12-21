@@ -1,4 +1,4 @@
-jslider
+Javascript Slider
 =======
 
-Javascript slider
+Simple Javascript Slider
